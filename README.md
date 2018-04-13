@@ -1,1 +1,3 @@
-# cpp-cource-2
+# Infopulse University
+# Programming C++
+# C++ professional programming
