@@ -1,3 +1,3 @@
 # Infopulse University
 # Programming C++
-# Professional C++ programming
+# Advanced C++ programming
